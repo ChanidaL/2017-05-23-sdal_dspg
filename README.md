@@ -10,3 +10,5 @@ okay
 
 bye
 
+I added the output folder with a '.gitkeep'file 
+
